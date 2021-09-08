@@ -29,7 +29,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'bootsnap', '>= 1.4.2', require: false
 
 # Make errors better looking
-gem 'better_errors', '~> 2.6'
+gem 'better_errors', '~> 2.8'
 
 # Bulma CSS
 gem 'bulma-rails', '~> 0.8.0'
